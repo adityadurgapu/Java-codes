@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ex1 
+public class user_details_collection 
 {
     public static void main(String[] args)
     {
