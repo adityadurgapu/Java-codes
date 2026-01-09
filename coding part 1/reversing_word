@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Ex9
+public class reversing_word
 {
     public static void main(String[] args)
     {
@@ -21,4 +21,5 @@ public class Ex9
 
         scanner.close();
     }
+
 }
