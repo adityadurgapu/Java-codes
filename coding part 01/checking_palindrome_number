@@ -22,4 +22,5 @@ public class Ex10
             System.out.println("The number is not a palindrome number");
         scanner.close();
     }
+
 }
