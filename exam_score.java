@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exam_score 
+public class exam_score_calc
 {
     public static void main(String[] args)
     {
