@@ -44,4 +44,5 @@ class Ex7
 
         scanner.close();
     }
+
 }
